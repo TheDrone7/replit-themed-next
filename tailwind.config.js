@@ -18,6 +18,12 @@ module.exports = {
       subheadBig: ['24px', { lineHeight: '28px' }],
       head: ['32px', { lineHeight: '36px' }],
       headBig: ['40px', { lineHeight: '44px' }],
+    },
+    dropShadow: {
+      '1': '0px 4px 8px 0px rgba(96, 96, 92, 0.16)',
+      '2': '0px 8px 16px 0px rgba(96, 96, 92, 0.32)',
+      '3': '0px 16px 32px 0px rgba(96, 96, 92, 0.48)',
+      'default': '0px 4px 8px 0px rgba(96, 96, 92, 0.16)',
     }
   },
   plugins: [],
