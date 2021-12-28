@@ -1,5 +1,5 @@
 {
-  "name": "monthly-repls",
+  "name": "replit-theme",
   "private": false,
   "scripts": {
     "dev": "next dev",
