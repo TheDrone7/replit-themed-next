@@ -1,6 +1,6 @@
 {
-  "name": "monthly-repls",
-  "private": true,
+  "name": "replit-theme",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
